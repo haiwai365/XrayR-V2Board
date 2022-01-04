@@ -7,8 +7,8 @@ Nodes:
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board
     ApiConfig:
-      ApiHost: "http://101.32.176.206"
-      ApiKey: "49ba59abbe56e057"
+      ApiHost: "https://test.btc137.com"
+      ApiKey: "123456789987654321"
       NodeID: 1
       NodeType: Shadowsocks # Node type: V2ray, Shadowsocks, Trojan
       Timeout: 30 # Timeout for the api request
