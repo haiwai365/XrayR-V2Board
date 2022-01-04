@@ -7,7 +7,7 @@ Nodes:
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board
     ApiConfig:
-      ApiHost: "http://43.129.231.22"
+      ApiHost: "http://101.32.176.206"
       ApiKey: "49ba59abbe56e057"
       NodeID: 1
       NodeType: Shadowsocks # Node type: V2ray, Shadowsocks, Trojan
